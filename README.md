@@ -53,10 +53,10 @@ Advanced multilingual and accessibility features
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](templates/login.png)
+![Login Page](https://github.com/MohanRajan-A/SkinCare-Project/blob/main/templates/login.html)
 
 ### 📝 Sign Up Page
-![Sign Up](templates/signup.png)
+![Sign Up]()
 
 ### 📊 AI Prediction Result
 ![Prediction Result](templates/analysis_result.png)
