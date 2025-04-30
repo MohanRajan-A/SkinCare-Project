@@ -56,10 +56,7 @@ Advanced multilingual and accessibility features
 ![Login Page](https://github.com/MohanRajan-A/SkinCare-Project/blob/main/templates/login.html)
 
 ### 📝 Sign Up Page
-![Sign Up]()
-
-### 📊 AI Prediction Result
-![Prediction Result](templates/analysis_result.png)
+![Sign Up](https://github.com/MohanRajan-A/SkinCare-Project/blob/main/templates/register.html)
 
 ### 📅 Doctor Booking Interface
 ![Booking Page](templates/booking.png)
