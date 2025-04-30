@@ -59,5 +59,5 @@ Advanced multilingual and accessibility features
 ![Sign Up](https://github.com/MohanRajan-A/SkinCare-Project/blob/main/templates/register.html)
 
 ### 📅 Doctor Booking Interface
-![Booking Page](templates/booking.png)
+![Booking Page](https://github.com/MohanRajan-A/SkinCare-Project/blob/main/templates/bookappointment.html)
 
