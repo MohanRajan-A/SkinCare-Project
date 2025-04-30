@@ -50,4 +50,17 @@ Augmented Reality (AR) skincare visualization
 Integration with IoT skincare devices
 Advanced multilingual and accessibility features
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](templates/login.png)
+
+### 📝 Sign Up Page
+![Sign Up](templates/signup.png)
+
+### 📊 AI Prediction Result
+![Prediction Result](templates/analysis_result.png)
+
+### 📅 Doctor Booking Interface
+![Booking Page](templates/booking.png)
 
