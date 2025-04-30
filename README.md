@@ -23,9 +23,6 @@
 | Database       | PostgreSQL, Firebase                             |
 
 
-
-
-
 ## Clone the Repository
 
 ```bash
@@ -34,8 +31,7 @@ cd Skincare-Project
 
 python app.py
 
-Sample Prediction Code
-
+## 🧪 Sample Prediction Code
 @app.route('/predict', methods=['POST'])
 def predict():
     image_file = request.files['image']
@@ -44,20 +40,11 @@ def predict():
     oiliness_result = model_oiliness.predict(image_path)
     # Combine predictions and recommend products
 
+
 Future Enhancements
 
 Augmented Reality (AR) skincare visualization
 Integration with IoT skincare devices
 Advanced multilingual and accessibility features
 
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login Page](https://github.com/MohanRajan-A/SkinCare-Project/blob/main/templates/login.html)
-
-### 📝 Sign Up Page
-![Sign Up](https://github.com/MohanRajan-A/SkinCare-Project/blob/main/templates/register.html)
-
-### 📅 Doctor Booking Interface
-![Booking Page](https://github.com/MohanRajan-A/SkinCare-Project/blob/main/templates/bookappointment.html)
 
