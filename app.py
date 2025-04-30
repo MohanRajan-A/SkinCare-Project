@@ -107,14 +107,14 @@ def init_app():
     create_tables()
 
 # Skin detection model initialization
-rf_skin = Roboflow(api_key="8RSJzoEweFB7NxxNK6fg")
+rf_skin = Roboflow(api_key="Paste Your API Key")
 project_skin = rf_skin.workspace().project("skin-detection-pfmbg")
 model_skin = project_skin.version(2).model
 
 # Oilyness detection model initialization
 CLIENT = InferenceHTTPClient(
-    api_url="https://detect.roboflow.com",
-    api_key="Gqf1hrF7jdAh8EsbOoTM"
+    api_url="Paste Your API URL",
+    api_key="Paste Your API Key"
 )
 
 # Store unique classes
