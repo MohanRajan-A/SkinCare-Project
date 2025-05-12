@@ -1,4 +1,4 @@
-# Skintellet: AI-Powered Facial Analysis for Personalized Skincare Recommendations
+# AI-Powered Facial Analysis for Personalized Skincare Recommendations
 
 ## 🌟 Overview
 **Skintellet** is an intelligent, AI-powered facial analysis system that transforms skincare diagnostics and accessibility. It uses deep learning and computer vision to detect acne, assess oiliness levels, and provide personalized skincare recommendations in real-time. The platform also features an integrated dermatologist booking system, making expert advice more accessible than ever.
